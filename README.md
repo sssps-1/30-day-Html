@@ -75,7 +75,7 @@
 
 <div>
 <small>Support the <strong>creator</strong> to create more educational materials</small> <br />  
-<a href = "https://photos.app.goo.gl/xabZ7UhCeNXXrZ6S6"><img src='./images/paypal_lg.png' alt='logo' style="width:10%"/></a>
+<a href="https://photos.app.goo.gl/8naB2xXRJ3JShcsP7"><img src='./images/paypal_lg.png' alt='logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
@@ -114,7 +114,7 @@ Congratulations on deciding to participate in 30 days of HTML challenge. In this
 
 A 30DaysOfHTML challenge is a complete guide for both beginners and advanced developers. Welcome to 30DaysOfHTM! HTML is the build-block of the web. There is no website without HTML, therefore, to develop a website it requires an HTML.
 
-In this step by step HTML challenge, you will learn HTML, the standard markup language for the web. HTML is used to build the skeleton or outline of any website. The skeleton or outline of the website is styled(beautified) by CSS(Cascading Style Sheet). JavaScript (JS) can make a website interactive and dynamic. HTML, CSS and JS are the core technologies to build websites and these are the skills required to be a web developer. This challenge will focus on HTML but we will use little CSS to make some HTML concepts more clear to the readers. A 30DaysOfCSS will be a follow up challenge after 30DaysOfHTML. There are [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript), [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React), and [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) by the same author.
+In this step by step HTML challenge, you will learn HTML, the standard markup language for the web. HTML is used to build the skeleton or outline of any website. The skeleton or outline of the website is styled(beautified) by CSS(Cascading Style Sheet). JavaScript (JS) can make a website interactive and dynamic. HTML, CSS and JS are the core technologies to build websites and these are the skills required to be a web developer. This challenge will focus on HTML but we will use little CSS to make some HTML concepts more clear to the readers. A 30DaysOfCSS will be a follow up challenge after 30DaysOfHTML. There are [30 Days of JavaScript](https://github.com/30-Days-Of-JavaScript), [30 Days of React](https://github.com/30-Days-Of-React), and [30 Days of Python](https://github.com/30-Days-Of-Python) by the same author.
 
 Look at the following picture to understand the purpose of HTML, CSS and JavaScript very well.
 
@@ -132,9 +132,9 @@ The main goal of this challenge is to teach the core building block of the web t
 
 ⚠️ This is not a proof read material. You may find typo, grammar and some technical errors here and there. The content will be updated now and then. Therefore, do not be surprised you find a typo or a grammar or other mistakes.
 
-This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you. 
+This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="youtube.com/html"> Washera</a> YouTube channel.
 
-The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfHTML challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com//)
+The creator likes to hear your opinion about the challenge, share the create by expressing your thoughts about the 30DaysOfHTML challenge. You can leave your testimonial on this [link](studyhub.vercel.app)
 
 ## Requirements
 
