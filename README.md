@@ -89,7 +89,7 @@ _The content provided in this repository is intended solely for educational purp
 <div>
     <small>Support the <strong>creator</strong> to create more educational materials</small> <br />  
     <a href="https://t.me/sscselu">
-        <img src='the-doctor-leo-fitz.gif'"/>
+        <img src='cyborg-tranparent-background.gif'"/>
     </a>
 </div>
 
