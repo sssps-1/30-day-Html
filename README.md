@@ -88,12 +88,8 @@ _The content provided in this repository is intended solely for educational purp
 
 <div>
     <small>Support the <strong>creator</strong> to create more educational materials</small> <br />  
-    <a href="https://photos.app.goo.gl/8naB2xXRJ3JShcsP7">
-        <img src='the-doctor-leo-fitz.gif' alt='logo' style="width:10%"/>
-    </a>
-    <br />
     <a href="https://t.me/sscselu">
-        <img src='./images/your_image.png' alt='Telegram Link' style="width:10%"/>
+        <img src='the-doctor-leo-fitz.gif' alt='logo' style="width:10%"/>
     </a>
 </div>
 
