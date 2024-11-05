@@ -1,3 +1,16 @@
+
+<div align="center">
+  <h1>Welcome to My Project!</h1>
+  <p>Thank you for visiting this repository. Here you will find all the resources and information related to this project.</p>
+  
+  <img src="https://via.placeholder.com/150" alt="Welcome Image" style="border-radius: 50%;">
+  
+  <p>Feel free to explore and contribute!</p>
+</div>
+
+
+
+
 # 30 Days Of HTML
 
 - [30 Days Of HTML](#30-days-of-html)
