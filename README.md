@@ -97,7 +97,7 @@ _The content provided in this repository is intended solely for educational purp
   </a>
       
       </div>
-</div>
+
 
 <div align="center">
   <h1>30 Days Of HTML: Introduction</h1>
