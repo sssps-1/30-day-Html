@@ -2,10 +2,10 @@
 <div align="center">
   <h1>Welcome to My Project!</h1>
   <p>Thank you for visiting this repository. Here you will find all the resources and information related to this project.</p>
-  </div>
+  
   ![Note](html-1-17495.gif)
 
-
+</div>
 
 ### Note
 _The content provided in this repository is intended solely for educational purposes and compiled from various sources. Contact me for any copyright issues._
