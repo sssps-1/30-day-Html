@@ -101,7 +101,7 @@ _The content provided in this repository is intended solely for educational purp
 
 
 <div align="center">
-  <h1>30 Days Of HTML: Introduction</h1>
+  
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/suryadeepsinghlu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
@@ -113,6 +113,8 @@ _The content provided in this repository is intended solely for educational purp
     <a href="https://www.linkedin.com/in/suryadeepsinghlu" target="_blank">Suryadeep Singh</a><br>
     <small>September, 2024</small>
   </sub>
+
+  <h1>30 Days Of HTML: Introduction</h1>
 </div>
 
 [Day 2 >>](./)
