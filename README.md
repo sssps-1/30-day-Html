@@ -88,9 +88,12 @@ _The content provided in this repository is intended solely for educational purp
 
 <div>
     <small>Support the <strong>creator</strong> to create more educational materials</small> <br />  
-    <a href="https://t.me/sscselu">
-        <img src='cyborg-tranparent-background.gif'"/>
-    </a>
+    <div style="display: flex; align-items: center;">
+        <a href="https://t.me/sscselu">
+            <img src="cyborg-tranparent-background.gif"/>
+        </a>
+        <a href="https://t.me/sscselu" style="margin-left: 10px;">Click</a>
+    </div>
 </div>
 
 <div align="center">
