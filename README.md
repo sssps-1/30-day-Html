@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
   <a class="header-badge" target="_blank" href="https://x.com/SuryaSinghLu?s=09">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sssps?style=social">
   </a>
 
   <sub>Me:
