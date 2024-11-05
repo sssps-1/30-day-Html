@@ -9,7 +9,7 @@
 </div>
 
 
-###### Note
+### Note
 _The content provided in this repository is intended solely for educational purposes and compiled from various sources. Contact me for any copyright issues._
 
 
