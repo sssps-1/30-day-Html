@@ -79,20 +79,18 @@
 </div>
 
 <div align="center">
-  <h1> 30 Days Of HTML: Introduction</h1>
+  <h1>30 Days Of HTML: Introduction</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/suryadeepsinghlu">
-  <img label=LinkedIn&logo=linkedin&style=social">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   </a>
-  <a class="header-badge" target="_blank" href=https://x.com/SuryaSinghLu?s=09">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://x.com/SuryaSinghLu?s=09">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Me:
-<a href="https://www.linkedin.com/in/suryadeepsinghlu="_blank">Suryadeep Singh</a><br>
-<small> September, 2024</small>
-</sub>
-
-</div>
+  <sub>Me:
+    <a href="https://www.linkedin.com/in/suryadeepsinghlu" target="_blank">Suryadeep Singh</a><br>
+    <small>September, 2024</small>
+  </sub>
 </div>
 
 [Day 2 >>](./)
