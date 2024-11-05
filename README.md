@@ -10,7 +10,7 @@
 
 
 ## Note
-<small>The content in this repository is for educational purposes only. It has been compiled from various sources. I do not claim ownership of original materials unless stated otherwise. Please contact me if any content violates copyright.</small>
+<font size="2">The content in this repository is for educational purposes only. It has been compiled from various sources. I do not claim ownership of original materials unless stated otherwise. Please contact me if any content violates copyright.</font>
 
 # 30 Days Of HTML
 
