@@ -87,7 +87,7 @@
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
-<sub>Author:
+<sub>Me:
 <a href="https://www.linkedin.com/in/suryadeepsinghlu="_blank">Suryadeep Singh</a><br>
 <small> September, 2024</small>
 </sub>
