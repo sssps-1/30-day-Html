@@ -90,13 +90,14 @@ _The content provided in this repository is intended solely for educational purp
     <small>Support the <strong>creator</strong> to create more educational materials</small> <br />  
     <div style="display: flex; align-items: center;">
         <a href="https://t.me/sscselu">
-            <img src="cyborg-tranparent-background.gif"/>
+            <img src="cyborg-tranparent-background.gif" alt="Cyborg Image" />
         </a>
-  <a class="header-badge" target="_blank" href="https://t.me/sscselu">
-    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=social&logo=telegram" alt="Telegram">
-  </a>
-      
-      </div>
+        <a class="header-badge" target="_blank" href="https://t.me/sscselu">
+            <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=social&logo=telegram" alt="Join Telegram Chat">
+        </a>
+    </div>
+</div>
+    
 
 
 <div align="center">
