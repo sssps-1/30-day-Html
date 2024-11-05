@@ -9,8 +9,9 @@
 </div>
 
 
-## Note
-<font size="2px">The content in this repository is for educational purposes only. It has been compiled from various sources. I do not claim ownership of original materials unless stated otherwise. Please contact me if any content violates copyright.</font>
+###### Note
+_The content provided in this repository is intended solely for educational purposes and compiled from various sources. Contact me for any copyright issues._
+
 
 # 30 Days Of HTML
 
