@@ -92,8 +92,11 @@ _The content provided in this repository is intended solely for educational purp
         <a href="https://t.me/sscselu">
             <img src="cyborg-tranparent-background.gif"/>
         </a>
-        <a href="https://t.me/sscselu" style="margin-left: 10px;">Click</a>
-    </div>
+  <a class="header-badge" target="_blank" href="https://t.me/sscselu">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=social&logo=telegram" alt="Telegram">
+  </a>
+      
+      </div>
 </div>
 
 <div align="center">
